@@ -5,4 +5,4 @@ Project is inspired from mindless recruitment specialists like: HRs, technicals,
 
 ## List of patterns:
 
- - [ ] Abstract factory
+ - [ ] Abstract factory.
